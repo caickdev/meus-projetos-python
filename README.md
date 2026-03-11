@@ -7,7 +7,9 @@ Aqui eu coloco meus primeiros projetos para praticar e mostrar para freelas/empr
 ## Projetos atuais:
 - `teste_pandas.py`: Teste básico de instalação e uso do Pandas.
 - `descontos_produtos.py`: Calculadora de descontos em produtos com exportação para CSV (útil para relatórios de vendas).
-- `organizador_arquivos.py`: Script que organiza arquivos em pastas por tipo (imagens, documentos, etc.). Útil para limpar pastas de download ou trabalho.
+- `organizador_arquivos.py`: Organiza arquivos em subpastas por tipo de extensão (Imagens, Documentos, Vídeos, Outros).  
+  Testado com sucesso: moveu 5 arquivos criando as pastas automaticamente.  
+  Ideal para limpar pastas de Downloads, fotos do celular ou arquivos de trabalho bagunçados.
 
 ## Sobre mim
 - Estudando Python do zero para automações e renda extra.
@@ -23,3 +25,8 @@ Contato: [caickvieira@gmail.com]
 3. Crie um venv: `python -m venv venv` e ative: `venv\Scripts\activate` (Windows)
 4. Instale dependências: `pip install pandas openpyxl`
 5. Rode: `python descontos_produtos.py`
+  
+ ## Como rodar o organizador de arquivos
+1. Clone o repositório ou baixe os arquivos.
+2. Mude a variável `pasta_teste` para o caminho da sua pasta (ex: r"C:\Users\SeuNome\Downloads").
+3. Rode: python organizador_arquivos.py
