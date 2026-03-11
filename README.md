@@ -1,4 +1,5 @@
 # Meus Projetos Python
+<image-card alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" ></image-card>
 
 Bem-vindo ao meu repositório de estudos e portfólio em Python!  
 Aqui eu coloco meus primeiros projetos para praticar e mostrar para freelas/empregos.
@@ -13,4 +14,11 @@ Aqui eu coloco meus primeiros projetos para praticar e mostrar para freelas/empr
 - Objetivo: Freelancer em automações simples (planilhas, PDFs, e-mails).
 
 Mais projetos vindo em breve! 🚀🐍  
-Contato: [seu LinkedIn ou e-mail]
+Contato: [caickvieira@gmail.com]
+
+## Como rodar os projetos
+1. Clone o repositório: `git clone https://github.com/caickdev/meus-projetos-python.git`
+2. Entre na pasta: `cd meus-projetos-python`
+3. Crie um venv: `python -m venv venv` e ative: `venv\Scripts\activate` (Windows)
+4. Instale dependências: `pip install pandas openpyxl`
+5. Rode: `python descontos_produtos.py`
