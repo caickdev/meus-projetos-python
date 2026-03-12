@@ -10,8 +10,9 @@ Aqui eu coloco meus primeiros projetos para praticar e mostrar para freelas/empr
 - `organizador_arquivos.py`: Organiza arquivos em subpastas por tipo de extensão (Imagens, Documentos, Vídeos, Outros).  
   Testado com sucesso: moveu 5 arquivos criando as pastas automaticamente.  
   Ideal para limpar pastas de Downloads, fotos do celular ou arquivos de trabalho bagunçados.
-- `envio_email_automatico.py`: Envia e-mails personalizados com anexo (ex: relatórios CSV, notas fiscais).  
-  Testado com sucesso: envio para Gmail com anexo funcionando.
+- `envio_email_automatico.py`: Envia e-mails automáticos personalizados com anexo (ex: relatórios CSV, PDFs).  
+  Testado com sucesso: e-mail chegou na caixa de entrada com anexo abrindo corretamente no Excel.  
+  Útil para envio de relatórios mensais, notificações ou promoções em massa.
 
 ## Sobre mim
 - Estudando Python do zero para automações e renda extra.
