@@ -14,6 +14,7 @@ Aqui eu coloco meus primeiros projetos para praticar e mostrar para freelas/empr
 - `envio_email_automatico.py`: Envia e-mails automáticos personalizados com anexo (ex: relatórios CSV, PDFs).  
   Testado com sucesso: e-mail chegou na caixa de entrada com anexo abrindo corretamente no Excel.  
   Útil para envio de relatórios mensais, notificações ou promoções em massa.
+- selenium_basico.py: Abre navegador, busca no Google e preenche formulário simples.
 
 ## Sobre mim
 - Estudando Python do zero para automações e renda extra.
