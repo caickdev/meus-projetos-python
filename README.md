@@ -1,5 +1,6 @@
 # Meus Projetos Python
 <image-card alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" ></image-card>
+<image-card alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" ></image-card>
 
 Bem-vindo ao meu repositório de estudos e portfólio em Python!  
 Aqui eu coloco meus primeiros projetos para praticar e mostrar para freelas/empregos.
@@ -18,6 +19,10 @@ Aqui eu coloco meus primeiros projetos para praticar e mostrar para freelas/empr
 - Estudando Python do zero para automações e renda extra.
 - Local: Campo Grande/MS
 - Objetivo: Freelancer em automações simples (planilhas, PDFs, e-mails).
+
+## Tecnologias
+- Python 3
+- Bibliotecas: pandas, openpyxl, os/shutil, yagmail
 
 Mais projetos vindo em breve! 🚀🐍  
 Contato: [caickvieira@gmail.com]
